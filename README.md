@@ -44,13 +44,12 @@ I work at the point where research meets reality, where models stop being experi
 
 | Project | What it does | Built with |
 |---|---|---|
-<!--| [**eda-glucose-spectroscopy**](https://github.com/WayneS0628/eda-glucose-spectroscopy) | **IN PROGRESS:** Exploratory analysis of a 273-sample spectroscopy dataset with ~4,200 spectral features, framed around non-invasive wearable glucose sensing. High-dimensional data, real signal-vs-noise problems. | Python, pandas, NumPy, Matplotlib | -->
 | [**titanic-eda**](https://github.com/WayneS0628/titanic-eda) | A full start-to-finish EDA: cleaning, feature relationships, and the story the data actually tells about who survived. | Python, pandas, seaborn |
 | [**Ny_Home_Prices**](https://github.com/WayneS0628/Ny_Home_Prices) | Analysis and modeling of New York housing prices to understand which features drive value. | Python, scikit-learn |
 | [**distractionTrackingTimer**](https://github.com/WayneS0628/distractionTrackingTimer) | "Lock In," a focus-tracking tool that logs distractions during work sessions and exports the data as JSON so I can run EDA and predictive modeling on my own productivity. | HTML, CSS, JavaScript, localStorage |
 | [**waynes0628.github.io**](https://github.com/WayneS0628/waynes0628.github.io) | Source for my portfolio site at waynesimmonsjr.com, a customized Jekyll build on a custom domain. | Jekyll, HTML, CSS |
 | [**Password_Generator**](https://github.com/WayneS0628/Password_Generator) | A configurable password generator, one of my earlier builds and a good look at where I started. | C++ |
-
+<!--| [**eda-glucose-spectroscopy**](https://github.com/WayneS0628/eda-glucose-spectroscopy) | **IN PROGRESS:** Exploratory analysis of a 273-sample spectroscopy dataset with ~4,200 spectral features, framed around non-invasive wearable glucose sensing. High-dimensional data, real signal-vs-noise problems. | Python, pandas, NumPy, Matplotlib | -->
 ---
 
 ## 🌱 What I'm working on now
