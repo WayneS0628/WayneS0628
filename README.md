@@ -45,6 +45,8 @@ I work at the point where research meets reality, where models stop being experi
 | Project | What it does | Built with |
 |---|---|---|
 | [**titanic-eda**](https://github.com/WayneS0628/titanic-eda) | A full start-to-finish EDA: cleaning, feature relationships, and the story the data actually tells about who survived. | Python, pandas, seaborn |
+| [**Titanic-DTvsNN**](https://github.com/WayneS0628/Titanic-DTvsNN) | Head-to-head comparison of a tuned Decision Tree and a Neural Network on Titanic survival, evaluated locally and on Kaggle's real leaderboard (0.7608 public score). NN won on both accuracy and F1. | Python, scikit-learn, TensorFlow/Keras |
+| [**SurviveTheTitanic**](https://github.com/WayneS0628/SurviveTheTitanic) | Interactive Streamlit app that takes the winning model from Titanic-DTvsNN out of the notebook, enter your details and get a live survival prediction. [Try it live](https://couldyousurvivethetitanic.streamlit.app/). | Python, Streamlit, TensorFlow/Keras |
 | [**Ny_Home_Prices**](https://github.com/WayneS0628/Ny_Home_Prices) | Analysis and modeling of New York housing prices to understand which features drive value. | Python, scikit-learn |
 | [**distractionTrackingTimer**](https://github.com/WayneS0628/distractionTrackingTimer) | "Lock In," a focus-tracking tool that logs distractions during work sessions and exports the data as JSON so I can run EDA and predictive modeling on my own productivity. | HTML, CSS, JavaScript, localStorage |
 | [**waynes0628.github.io**](https://github.com/WayneS0628/waynes0628.github.io) | Source for my portfolio site at waynesimmonsjr.com, a customized Jekyll build on a custom domain. | Jekyll, HTML, CSS |
@@ -55,7 +57,6 @@ I work at the point where research meets reality, where models stop being experi
 ## 🌱 What I'm working on now
 
 - **Break Through Tech AI** ML Foundations and applied ML with industry partners
-- A **Decision Tree vs. Neural Network** comparison project, testing which model actually wins on the same real-world dataset and why
 - Building toward **10 portfolio projects** in ML, NLP, and data science, published on my site
 - A **multi-modal risk detection tool** on synthetic data, combining text classification with shared-identifier graph linking, aimed at pattern detection in trafficking-related listings
 
