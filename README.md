@@ -28,6 +28,7 @@ I work at the point where research meets reality, where models stop being experi
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 **Tools**
@@ -44,6 +45,7 @@ I work at the point where research meets reality, where models stop being experi
 
 | Project | What it does | Built with |
 |---|---|---|
+| [**spotify-tracks-explorer**](https://github.com/WayneS0628/spotify-tracks-explorer) | Interactive EDA of ~114k Spotify tracks across 114 genres: two-grain dedupe design, feature correlations, and a genre mood map, all explorable in a live Streamlit app with sliders and head-to-head genre comparison. [Try it live](#). | Python, pandas, Plotly, Streamlit |
 | [**titanic-eda**](https://github.com/WayneS0628/titanic-eda) | A full start-to-finish EDA: cleaning, feature relationships, and the story the data actually tells about who survived. | Python, pandas, seaborn |
 | [**Titanic-DTvsNN**](https://github.com/WayneS0628/Titanic-DTvsNN) | Head-to-head comparison of a tuned Decision Tree and a Neural Network on Titanic survival, evaluated locally and on Kaggle's real leaderboard (0.7608 public score). NN won on both accuracy and F1. | Python, scikit-learn, TensorFlow/Keras |
 | [**SurviveTheTitanic**](https://github.com/WayneS0628/CouldYouSurviveTheTitanic) | Interactive Streamlit app that takes the winning model from Titanic-DTvsNN out of the notebook, enter your details and get a live survival prediction. [Try it live](https://couldyousurvivethetitanic.streamlit.app/). | Python, Streamlit, TensorFlow/Keras |
